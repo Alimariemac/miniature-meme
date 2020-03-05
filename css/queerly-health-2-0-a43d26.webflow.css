@@ -217,6 +217,10 @@ a {
   color: #fc7753;
 }
 
+.button._10-margin.secondary:hover {
+  background-color: #fee4dd;
+}
+
 .button.center {
   display: -webkit-box;
   display: -webkit-flex;
